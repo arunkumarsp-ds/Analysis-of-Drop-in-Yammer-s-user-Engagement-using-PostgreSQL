@@ -1,7 +1,7 @@
 # Analysis of Drop in Yammer’s User Engagement  
 
-This project investigates the reasons for the decline in user engagement on Yammer, utilizing PostgreSQL for data analysis and Excel for data visualization. 
-The analysis was conducted on the **Mode platform** due to its report-building capabilities, although the queries are fully compatible with **pgAdmin** or any PostgreSQL environment.
+- This project investigates the reasons for the decline in user engagement on Yammer, utilizing PostgreSQL for data analysis and Excel for data visualization. 
+- The analysis was conducted on the **Mode platform** due to its report-building capabilities, although the queries are fully compatible with **pgAdmin** or any PostgreSQL environment.
 
 ## Key Highlights  
 
