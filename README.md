@@ -2,8 +2,8 @@
 
 ## PROJECT LINKS 
 
-- [**PDF Report**](https://github.com/arunkumarsp-ds/Analysis-of-Drop-in-Yammer-s-user-Engagement-using-PostgreSQL/blob/main/Drop%20In%20Yammer's%20User%20Engagement%20Analysis%20Using%20Postgre-Sql%20final.pdf)  
-- [**Excel Charts**](https://github.com/arunkumarsp-ds/Analysis-of-Drop-in-Yammer-s-user-Engagement-using-PostgreSQL/blob/main/Output%20in%20Charts%20and%20data.xlsx) 
+- 💻 [**PDF Report**](https://github.com/arunkumarsp-ds/Analysis-of-Drop-in-Yammer-s-user-Engagement-using-PostgreSQL/blob/main/Drop%20In%20Yammer's%20User%20Engagement%20Analysis%20Using%20Postgre-Sql%20final.pdf)  
+- 💻 [**Excel Charts**](https://github.com/arunkumarsp-ds/Analysis-of-Drop-in-Yammer-s-user-Engagement-using-PostgreSQL/blob/main/Output%20in%20Charts%20and%20data.xlsx) 
 
 ### **Note:** In case the linked files (PDF report and Excel charts) cannot be viewed directly on GitHub, please download the files and open them in their respective applications for proper access.
 
